@@ -4,6 +4,7 @@
 
 [![Build Status](https://travis-ci.org/openwisp/openwisp-wifi-login-pages.svg?branch=master)](https://travis-ci.org/openwisp/openwisp-wifi-login-pages)
 [![Coverage Status](https://coveralls.io/repos/github/openwisp/openwisp-wifi-login-pages/badge.svg)](https://coveralls.io/github/openwisp/openwisp-wifi-login-pages)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnikitaermishin%2Fopenwisp-wifi-login-pages.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnikitaermishin%2Fopenwisp-wifi-login-pages?ref=badge_shield)
 
 Openwisp wifi login pages app to allow users to authenticate, sign up and know more about the WiFi service they are using.
 
@@ -121,3 +122,6 @@ so the client knows where he can find the server.
 ### License
 
 See [LICENSE](https://github.com/openwisp/openwisp-wifi-login-pages/blob/master/LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnikitaermishin%2Fopenwisp-wifi-login-pages.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnikitaermishin%2Fopenwisp-wifi-login-pages?ref=badge_large)
